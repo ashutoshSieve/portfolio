@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Courier New", sans-serif, monospace;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 70px;
+}
+hr{
+    border: dotted 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.toptext{
+    font-size: 40px;
+}
+.top {
+  padding-top: 100px;
+  font-family: "Sacramento", cursive;
+  color: #FF6969;
+}
+
+.mountain {
+  display: inline-block;
+  width: 100%;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.skills-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.chilli{
+    width: 20%;
+    float: right;
+    margin-right: 30px;
+}
+.code{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.logo {
+    width: 15%;
+}
+.intro{
+    margin: auto;
+    width: 50%;
+    line-height: 2;
+}
+.middle{
+    margin: 70px 0;
+}
+
+a{
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #FF6969;
+}
+.text-color{
+    color:#FF6666;
+}
